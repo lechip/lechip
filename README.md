@@ -6,5 +6,4 @@
 - 🤔 I’m looking for help with mentoring about web technologies and Software Engineering.
 - 💬 Ask me about why I use Vue.js for hobbies and Ract at my work
 - 📫 How to reach me: [@lechip](https://twitter.com/lechip)
-- 😄 Pronouns: He/his
 - ⚡ Fun fact: I am terribly fastidious about writing proper markdown 🤖
